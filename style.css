@@ -1,0 +1,165 @@
+body {
+    background-color: rgba(23, 212, 212, 0.342);
+    margin: 0;
+    font-family: 'Courgette', cursive;
+}
+
+* {
+    margin: 0;
+}
+
+section {
+    margin: 0;
+}
+
+.tour {
+    background-image: url(images/pic-1.jpg);
+    height: 800px;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    opacity: 0.80;
+
+}
+
+.style-1 {
+    color: tomato;
+    position: absolute;
+    margin-left: 180px;
+    margin-top: 200px;
+
+}
+
+.h1-style {
+    font-size: 70px;
+    font-weight: bold;
+}
+
+.p-style {
+    font-size: 30px;
+    color: #FFFFFF;
+    margin-bottom: 80px;
+}
+
+.a-style {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 17px;
+    color: white;
+    font-weight: 800;
+    font-size: 35px;
+    border-radius: 10px;
+
+}
+
+.part-2 {
+    display: flex;
+    margin: 100px;
+}
+
+.travel-text {
+    padding: 100px;
+    height: 200px;
+    width: 600px;
+}
+
+.travel-image-1 {
+    height: 650px;
+    width: 800px;
+    border-radius: 15px;
+    border: 1px solid white;
+    margin-left: 100px;
+}
+
+.p-style-2 {
+    font-size: 025px;
+    color: darkgreen;
+}
+
+.a-style-1 {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 17px;
+    margin-top: 50px;
+    font-size: 40px;
+    position: absolute;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+.part-3 {
+    margin-top: 100px;
+    margin-left: 700px;
+    margin-bottom: 100px;
+    border: 1px dotted red;
+    height: 400px;
+    width: 500px;
+    box-shadow: 0px 1px 1px 0;
+    padding: 25px;
+    text-align: center;
+
+}
+
+.input-1 {
+    padding: 2px;
+    border: 1px solid black;
+    margin-left: 80px;
+}
+
+.input-2 {
+    padding: 2px;
+    border: 1px solid black;
+    margin-left: 82px;
+}
+
+.input-3 {
+    padding: 2px;
+    border: 1px solid black;
+    margin-left: 99px;
+}
+
+.input-4 {
+    padding: 2px;
+    border: 1px solid black;
+    margin-left: 89px;
+}
+
+.input-5 {
+    padding: 2px;
+    border: 1px solid black;
+    margin-left: 30px;
+}
+
+footer {
+    background-color: rgb(75, 61, 36);
+    color: white;
+    overflow: hidden;
+    height: 200px;
+
+
+
+
+}
+
+.footer-1 {
+    position: absolute;
+    text-align: center;
+    margin-top: 40px;
+    margin-left: 600px;
+
+}
+
+.footer-1 h1 {
+    font-size: 55px;
+}
+
+.footer-2 {
+    height: 100px;
+    width: 150px;
+    padding-left: 50px;
+    padding: 40px;
+    border-radius: 50%;
+}
